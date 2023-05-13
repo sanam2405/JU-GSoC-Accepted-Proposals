@@ -7,7 +7,4 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
   
   
 ### [2023](2023)
-  - [Manas Pratim Biswas - CERN-HSF]
-
-<!-- (2022/AboutCode%20-%202022%20-%20Lali%20Akhil%20Raj.pdf)
-  -->
+  - [Manas Pratim Biswas - CERN-HSF](2023/CERN - 2023 - Manas Pratim Biswas.pdf)
