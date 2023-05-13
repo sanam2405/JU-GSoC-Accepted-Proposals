@@ -3,3 +3,5 @@
 2. [Manas Pratim Biswas](https://www.linkedin.com/in/manas-pratim-biswas/), IT UG3, **CERN-HSF** 
 
 3. [Aritra Majumder](https://www.linkedin.com/in/aritra-majumder-juee23/), EE UG4, **Mathesar** 
+
+4. [Srirupa Datta](https://www.linkedin.com/in/srirupa-datta/), EE UG4, **KDE** 
