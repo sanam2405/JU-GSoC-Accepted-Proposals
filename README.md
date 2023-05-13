@@ -11,3 +11,4 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
 
 ### [2023](2023)
   - [Manas Pratim Biswas - CERN-HSF](2023/CERN%20-%202023%20-%20Manas%20Pratim%20Biswas.pdf)
+  - [Aritra Majumder - Mathesar](2023/Mathesar%20-%202023%20-%20Aritra%20Majumder.pdf)
