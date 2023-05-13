@@ -13,3 +13,4 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
   - [Tanmoy Sarkar - CircuitVerse](2023/CircuitVerse%20-%202023%20-%20Tanmoy%20Sarkar.pdf)
   - [Manas Pratim Biswas - CERN-HSF](2023/CERN%20-%202023%20-%20Manas%20Pratim%20Biswas.pdf)
   - [Aritra Majumder - Mathesar](2023/Mathesar%20-%202023%20-%20Aritra%20Majumder.pdf)
+  - [Srirupa Datta - KDE](2023/KDE%20-%202023%20-%20Srirupa%20Datta.pdf)
