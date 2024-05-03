@@ -14,3 +14,6 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
   - [Manas Pratim Biswas - CERN-HSF](2023/CERN%20-%202023%20-%20Manas%20Pratim%20Biswas.pdf)
   - [Aritra Majumder - Mathesar](2023/Mathesar%20-%202023%20-%20Aritra%20Majumder.pdf)
   - [Srirupa Datta - KDE](2023/KDE%20-%202023%20-%20Srirupa%20Datta.pdf)
+
+### [2024](2024)
+  - [Jaydip Dey - CircuitVerse](2024/CircuitVerse%20-%202024%20-%20Jaydip%20Dey.pdf)
