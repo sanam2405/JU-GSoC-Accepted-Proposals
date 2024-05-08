@@ -1,1 +1,1 @@
-1. [Jaydip Dey](https://www.linkedin.com/in/jaydip-dey/), CSE 23', **CircuitVerse**
+1. [Jaydip Dey](https://www.linkedin.com/in/jaydip-dey/), CSE '23, **CircuitVerse**
