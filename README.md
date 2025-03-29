@@ -29,3 +29,4 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
 ### [2024](2024)
 
 - [Jaydip Dey • CSE '23 - CircuitVerse](2024/CircuitVerse%20-%202024%20-%20Jaydip%20Dey.pdf)
+- [Aritra Majumder • EE '23 - OmegaUp ](2024/OmegaUp%20-%202024%20-%20Aritra%20Majumder.pdf)
